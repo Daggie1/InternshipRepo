@@ -1,6 +1,12 @@
-# InternshipRepo
+
 <h1>Slack Alternative</h1>
+
 </br>
+<p>
+this app was developed to take the social networking to  the next level, added features includes:
+ 1.Group chat
+ 2.Video conferencing
+</p>
 <h2>Getting Started</h2>
 </br>
 follow the following instructions to get the app running on your local machine:<br>
