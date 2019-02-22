@@ -21,6 +21,6 @@ follow the following instructions to get the app running on your local machine:<
 
 
 
- <img src="../master/new/author.png?raw=true" width="100" height="100" align="middle"/></br>
+ <img src="../master/FB_IMG_1527372945444.jpg?raw=true" width="100" height="100" align="middle"/></br>
      
 <h4>Douglas</h4>
